@@ -1,0 +1,15 @@
+{
+  "exp_name": "cifar_example_exp_1",
+
+  "image_height": 48,
+  "image_width": 48,
+  "num_classes": 2,
+
+  "batch_size": 64,
+  "num_epochs": 1000000,
+  "learning_rate": 0.001,
+
+  "max_to_keep": 2,
+
+  "file_list": "../data/image_48x48/0list_landmarks_save.txt"
+}
